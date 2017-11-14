@@ -9,7 +9,7 @@ Guoquan Huang, Anastasios I. Mourikis and Stergios I. Roumeliotis, Observability
 
 # Notes
 - Based on the OC-EKF Matlab code of Prof. Guoquang Huang
-- To add iSAM, you can dowload it and obtaint install instructions at: https://people.csail.mit.edu/kaess/isam/doc/index.html
+- To add iSAM, you can dowload it and obtain install instructions at: https://people.csail.mit.edu/kaess/isam/doc/index.html
 - Change simulation parameters in the main script (main.m) as needed both for simulation and real data
 - Run main.m
 
