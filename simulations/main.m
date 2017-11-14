@@ -1,7 +1,8 @@
 %% -----------------------------------------------------------------------------------------------
 % %  Simulation script: 2D I-EKF SLAM SIMULATION
 % %  Reference:
-% %  - An EKF-SLAM algorithm with consistency properties. Submitted to IEEE Trans. on Robotics.
+% %  - A. Barrau and S. Bonnabel. 
+% %    An EKF-SLAM algorithm with consistency properties. Submitted to IEEE Trans. on Robotics.
 % %    Arxiv preprint https://arxiv.org/abs/1510.06263"
 % %  - Guoquan Huang, Anastasios I. Mourikis and Stergios I. Roumeliotis.
 % %    Observability-based Rules for Designing Consistent EKF SLAM Estimators.
