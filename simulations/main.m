@@ -1,17 +1,20 @@
 %% -----------------------------------------------------------------------------------------------
-% %  Simulation script: 2D I-EKF SLAM SIMULATION
-% %  Reference:
-% %  - A. Barrau and S. Bonnabel. 
-% %    An EKF-SLAM algorithm with consistency properties. Submitted to IEEE Trans. on Robotics.
-% %    Arxiv preprint https://arxiv.org/abs/1510.06263"
-% %  - Guoquan Huang, Anastasios I. Mourikis and Stergios I. Roumeliotis.
-% %    Observability-based Rules for Designing Consistent EKF SLAM Estimators.
-% %    International Journal of Robotics Research, vol. 29, no. 5, pp. 502-528, April 2010.
+% % Simulation script: 2D I-EKF SLAM SIMULATION
+% % Reference for the I-EKF:
+% % - Axel Barrau and Silvère Bonnabel.
+% % An EKF-SLAM algorithm with consistency properties. Submitted to IEEE Trans. on Robotics.
+% % Arxiv preprint https://arxiv.org/abs/1510.06263"
+% % Reference for the OC-EKF:
+% % - Guoquan Huang, Anastasios I. Mourikis and Stergios I. Roumeliotis.
+% % Observability-based Rules for Designing Consistent EKF SLAM Estimators.
+% % International Journal of Robotics Research, vol. 29, no. 5, pp. 502-528, April 2010.
 % %
 % %
-% %  Written by:
-% %  Martin Brossard <martin.brossard@mines-paristech.fr>
-% %  Guoquan (Paul) Huang <ghuang@udel.edu>
+% % Written by:
+% % Axel Barrau <axel.barrau@safrangroup.com>
+% % Silvère Bonnabel <silvere.bonnabel@mines-paristech.fr>
+% % Martin Brossard <martin.brossard@mines-paristech.fr>
+% % Guoquan (Paul) Huang <ghuang@udel.edu>
 %% -----------------------------------------------------------------------------------------------
 clear all
 close all
