@@ -1,4 +1,15 @@
-
+%% -----------------------------------------------------------------------------------------------
+% %  Simulation script: 2D I-EKF SLAM SIMULATION
+% %  Reference:
+% %  - Guoquan Huang, Anastasios I. Mourikis and Stergios I. Roumeliotis.
+% %    Observability-based Rules for Designing Consistent EKF SLAM Estimators.
+% %    International Journal of Robotics Research, vol. 29, no. 5, pp. 502-528, April 2010.
+% %
+% %
+% %  Written by:
+% %  Martin Brossard <martin.brossard@mines-paristech.fr>
+% %  Guoquan (Paul) Huang <ghuang@udel.edu>
+%% -----------------------------------------------------------------------------------------------
 clear all
 close all
 clc
